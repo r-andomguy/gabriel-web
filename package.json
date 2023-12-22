@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "bulma-components": "^0.0.5",
+    "components": "^0.1.0",
+    "react": "^15.7.0",
+    "react-bulma-components": "^4.1.0",
+    "react-styled-components": "^0.1.11"
+  }
+}
